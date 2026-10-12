@@ -36,7 +36,6 @@ PERCHE' RESTA INTEGRA NEL TEMPO
 DOVE E' PUBBLICATA
   Sito dell'ufficio statistica: https://statisticava.github.io/report-import-export/
   (repository GitHub StatisticaVA/report-import-export: se si modifica index.html va ricaricato li').
-  Copia sull'account personale: https://lucaportu.github.io/report-import-export/
 
 DOVE PUBBLICARLA (facoltativo)
   - Sito o intranet della Camera di Commercio: caricare index.html.
